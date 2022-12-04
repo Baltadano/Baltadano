@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Baltadano
 - 👀 I’m interested in Android Developer
 - 🌱 I’m currently learning Ing. Informatica
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on big software companies 
+- 📫 How to reach me:  baltadano65@gmail.com
+-                       
 
 <!---
 Baltadano/Baltadano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
